@@ -1,18 +1,18 @@
-# Laravel Starter Kit
+# 🚀 Laravel Starter Kit
 
 A robust and feature-rich Laravel starter kit built with modern technologies and best practices. This starter kit provides a solid foundation for building web applications with authentication, authorization, and team management capabilities.
 
-## Features
+## ✨ Features
 
-- **Authentication System** - Powered by Laravel Jetstream
-- **Team Management** - Built-in team collaboration features
-- **Role-Based Access Control** - Using Spatie Laravel Permission
-- **Modern Frontend** - Using Livewire and TailwindCSS
-- **API Support** - Built-in API authentication using Laravel Sanctum
+- **🔒 Authentication System** - Powered by Laravel Jetstream
+- **👥 Team Management** - Built-in team collaboration features
+- **🛡️ Role-Based Access Control** - Using Spatie Laravel Permission
+- **🎨 Modern Frontend** - Using Livewire and TailwindCSS
+- **📡 API Support** - Built-in API authentication using Laravel Sanctum
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
+### ⚙️ Backend
 - PHP 8.2+
 - Laravel 11.x
 - Laravel Jetstream 5.3
@@ -20,26 +20,26 @@ A robust and feature-rich Laravel starter kit built with modern technologies and
 - Laravel Sanctum 4.0
 - Maatwebsite Excel 3.1
 
-### Frontend
+### 📱 Frontend
 - Livewire 3.0
 - TailwindCSS
 - Tailwind Forms
 - Tailwind Typography
 
-### Development Tools
+### 🧰 Development Tools
 - Laravel Pail
 - Laravel Pint
 - Laravel Sail
 - Vite 6.0
 
-## Prerequisites
+## ⚠️ Prerequisites
 
 - PHP >= 8.2
 - Composer
 - Node.js & NPM
 - Database (MySQL/MariaDB)
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository
 ```bash
@@ -82,17 +82,17 @@ DB_PASSWORD=your_password
 php artisan migrate --seed
 ```
 
-## User Roles and Permissions
+## 🧑‍💻 User Roles and Permissions
 
 The starter kit comes with predefined roles and permissions:
 
-### Roles
+### 🎭 Roles
 - Admin
 - Editor
 - User
 - Viewer
 
-### Permissions
+### 🔒 Permissions
 - manage_users
 - manage_roles
 - manage_permissions
@@ -108,7 +108,7 @@ The starter kit comes with predefined roles and permissions:
 - comment
 - like_content
 
-## Development
+## 🧑‍💻 Development
 
 Start the development server:
 
@@ -122,7 +122,7 @@ Watch for frontend changes:
 npm run dev
 ```
 
-## Testing
+## 🧪 Testing
 
 Run PHPUnit tests:
 
@@ -130,6 +130,6 @@ Run PHPUnit tests:
 php artisan test
 ```
 
-## License
+## 📜 License
 
 This Laravel Starter Kit is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
